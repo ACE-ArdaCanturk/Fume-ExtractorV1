@@ -37,7 +37,7 @@ Printed as such the curved inlet part facing the bed definitely needs support, n
 ## Step 2: Assembly
 ***DISCLAIMER:*** This part of the guide will include fucking with ***high voltage*** AC electricity you can actually ***die*** if not careful, if you do then don't blame me. Proceed with ***caution***.
 
-1) Start by fastening the flanges to their respective main structure parts using five m3x5mm screws for each, They will fasten directly into the flange plastic with no hex nuts.
+1) Start by fastening the flanges to their respective main structure parts using four m3x5mm screws for each, They will fasten directly into the flange plastic with no hex nuts.
 
 2) Insert the fan inside the circular hole in the main structure back part, making sure to fish the fan cables into the cable hole as you do.
 
