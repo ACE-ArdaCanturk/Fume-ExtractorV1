@@ -6,6 +6,4 @@ This project wasn't originally meant to be shared and was more so something I bu
 
 ![Render1](Images/render1.png)
 
-![gif1](Videos/vid1.gif)
-
 ![gif2](Videos/vid2.gif)
