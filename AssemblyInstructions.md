@@ -48,4 +48,35 @@ Printed as such the curved inlet part facing the bed definitely needs support, n
 ![mergeFastenPic1](Images/merge1.png)
 ![mergeFastenPic2](Images/merge2.png)
 
-5) 
+5) Fasten two m3x25mm screws with two hex nuts as shown.
+![mergeFastenPic3](Images/merge3.png)
+![mergeFastenPic4](Images/merge4.png)
+
+6) Insert the ac cable into the cable hole fasten it with the c-clamp using four m3x20mm screws and four hex nuts as shown. No need to overtighten the c-clamp tighten until you get good compression and give it a firm pull to see if its secure, do not tighten all the way.
+![mergeFastenPic5](Images/merge5.png)
+
+7) Take your on/off switch solder two 15cm length copper wires to the spade terminals, and insert it into its place (make sure to heatshrink the solder joints).
+![mergeFastenPic6](Images/merge6.png)
+
+8) Insert your neon bulb in its place on the top cover glue it in place using super glue or hot glue (solder extension wires to the bulbs leads if theyre not long enough to connect to the screw terminal)
+![mergeFastenPic7](Images/merge7.png)
+
+9) Do the cabling according to this schematic.
+![schematic](Images/schematic.png)
+
+How to do it is up to you but i did it as such, live ac wire interrupted by the switch connected together with a wago connector and the output of the switch is connected to one side of the screw terminal, neutral ac wire is directly connected to the other side of the screw terminal. Also the neon bulb is wired in parallel into the screw terminal block in the exact places where the ac cables were inserted. Then on the opposite side of the terminal block the fan wires are connected also in parallel to the circuit, the terminal block is screwed down with a m3x10mm screw plus a hex nut and thats it. Irl photos for reference.
+![wiring1](Images/pic5.jpeg)
+![wiring2](Images/pic3.jpeg)
+![wiring3](Images/pic6.jpeg)
+Additionally i glued the wago down with a drop of hot glue, tidied everything up with zipties and tucked the ground wire to the side with hotglue since we don't need it and i dont want it wiggling around in there.
+
+10) Insert six hex nuts in total as shown.
+![mergeFastenPic8](Images/merge8.png)
+![mergeFastenPic9](Images/merge9.png)
+
+11) Screw down the top cover using six m3x10mm screws.
+![mergeFastenPic10](Images/merge10.png)
+![mergeFastenPic11](Images/merge11.png)
+
+## Done ✅
+That is it from the assembly. Additionally you can print the lettering and glue them in place but otherwise you should have a functional fume extractor, connect it together with the intake using hvac hosing and test it.
