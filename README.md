@@ -5,3 +5,5 @@ This project wasn't originally meant to be shared and was more so something I bu
 [Assembly Guide](AssemblyInsructions.md)
 
 ![Render1](Images/render1.png)
+
+![gif1](Videos/vid1.gif)
